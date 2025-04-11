@@ -8,16 +8,26 @@ The microsatellite genotype data available here were obtained from the following
 Sample metadata
 <br>
 _Sample_metadata.xlsx_ contains the following information and fields:
+<br>
 __Sample/Isolate__: The DNA extraction number and sample number by which the sample is referred to in the analyses. <br>
-__Tissue sample number__ : Tissue sample from wich DNA was isolated. Tissue samples are lodged in the Biomaterials Collection of the National Research Foundation - South African Institute for Aquatic Biodiversity <br> 
+<br>
+__Tissue sample number__ : Tissue sample from wich DNA was isolated. Tissue samples are lodged in the Biomaterials Collection of the National Research Foundation - South African Institute for Aquatic Biodiversity <br>
+<br>
 __Locality__: Collection/sampling locality of each sample. <br>
 __Population__: Population sample to which sample was allocated for the analyses. <br>
+<br>
 __Longitude__: Longitude of the sampling locality. <br>
+<br>
 __Latitude__: Latitude of the sampling locality. <br>
+<br>
 __Date__: Date of sampling. <br>
+<br>
 __16S GenBank accession__: NCBI GenBank accession number for the 16S large subunit rRNA mtDNA sequence derived from the sample. <br>
+<br>
 __COI GenBank accession__: NCBI GenBank accession number for the cytochrome c oxidase subunit I (COI) mtDNA sequence derived from the sample. <br>
+<br>
 __Microsatellite genotypes__: Logical operator (TRUE or FALSE) as to whether the individual sample was genotyped at the eight microsatellite loci. <br>
+<br>
 
 
 
