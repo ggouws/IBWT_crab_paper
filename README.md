@@ -5,9 +5,9 @@ DNA sequence data from the 16S large subunit rRNA and cytochrome oxidase _c_ sub
 
 The microsatellite genotype data available here were obtained from the following loci: Pp 1, Pp3, Pp4 and, Pp5 (trinucleotide repeat motifs), and Pp6, Pp7, Pp8 and Pp9 (dinucleotide repeats).
 
-Sample metadata
+Sample metadata <br>
 <br>
-_Sample_metadata.xlsx_ contains the following information and fields:
+_Sample_metadata.xlsx_ contains the following information and fields: <br>
 <br>
 __Sample/Isolate__: The DNA extraction number and sample number by which the sample is referred to in the analyses. <br>
 <br>
