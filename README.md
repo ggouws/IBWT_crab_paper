@@ -5,6 +5,15 @@ DNA sequence data from the 16S large subunit rRNA and cytochrome oxidase _c_ sub
 
 The microsatellite genotype data available here were obtained from the following loci: Pp 1, Pp3, Pp4 and, Pp5 (trinucleotide repeat motifs), and Pp6, Pp7, Pp8 and Pp9 (dinucleotide repeats).
 
+Microsatellite data <br>
+<br>
+_Interbasin_crab_genotypes.xlsx_ contains the microsatellite genotype data and other information in the following fields and arrangement. <br>
+<br>
+Samples are in rows, with loci and metadata in columns. Each locus (diploid) is presented over two columns, with a sized (amplicon fragment size) and called allele in each. Missing data/alleles are indicated by zero (_0_). <br>
+<br>
+
+
+
 Sample metadata <br>
 <br>
 _Sample_metadata.xlsx_ contains the following information and fields: <br>
