@@ -41,6 +41,8 @@ __COI GenBank accession__: NCBI GenBank accession number for the cytochrome c ox
 <br>
 __Microsatellite genotypes__: Logical operator (TRUE or FALSE) as to whether the individual sample was genotyped at the eight microsatellite loci. <br>
 <br>
+__BLAST specifies identification__: Species identification based on BLAST search against NCBI GenBank. <br>
+<br>
 
 
 
