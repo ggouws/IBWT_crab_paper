@@ -27,6 +27,7 @@ __Sample/Isolate__: The DNA extraction number and sample number by which the sam
 __Tissue sample number__ : Tissue sample from wich DNA was isolated. Tissue samples are lodged in the Biomaterials Collection of the National Research Foundation - South African Institute for Aquatic Biodiversity <br>
 <br>
 __Locality__: Collection/sampling locality of each sample. <br>
+<br>
 __Population__: Population sample to which sample was allocated for the analyses. <br>
 <br>
 __Longitude__: Longitude of the sampling locality. <br>
